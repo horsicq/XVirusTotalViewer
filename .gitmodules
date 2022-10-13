@@ -1,0 +1,9 @@
+[submodule "Formats"]
+	path = Formats
+	url = https://github.com/horsicq/Formats
+[submodule "build_tools"]
+	path = build_tools
+	url = https://github.com/horsicq/build_tools
+[submodule "XOnlineTools"]
+	path = XOnlineTools
+	url = https://github.com/horsicq/XOnlineTools
