@@ -40,9 +40,6 @@
 [submodule "XDemangleWidget"]
 	path = XDemangleWidget
 	url = https://github.com/horsicq/XDemangleWidget
-[submodule "XDisasm"]
-	path = XDisasm
-	url = https://github.com/horsicq/XDisasm
 [submodule "XDisasmView"]
 	path = XDisasmView
 	url = https://github.com/horsicq/XDisasmView
